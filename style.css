@@ -69,6 +69,8 @@ a:hover { color: green; }
     outline: 0.2rem solid hsl(292, 42%, 14%);
 }
 
+    .clickbleIMG{ cursor: pointer; }
+
 .attribution { text-align: center; }
 
 #pattern-desktop{
